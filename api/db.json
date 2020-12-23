@@ -1,3 +1,14 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "lkjklj",
+      "description": "fdsd",
+      "id": 1
+    },
+    {
+      "title": "Leah",
+      "description": "Queen",
+      "id": 2
+    }
+  ]
 }
